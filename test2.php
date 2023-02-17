@@ -5,4 +5,6 @@
     $varZ = $varX + $varY
 
     $varA = $varB
+
+    include
 ?>
